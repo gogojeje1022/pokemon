@@ -4,6 +4,7 @@
 1. nintendoDS_layout(Silver).png
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/5931a434-cb58-413f-9c24-d0742f03facb" />
 
+
 3. nintendoDSi_layout(Black).png
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8844bb1c-cee3-4574-b5b5-be582d051c02" />
 
@@ -49,6 +50,7 @@ Portrait background 선택
 👉 아래는 레이아웃 배치 예시입니다.
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/c6401be2-4717-4593-8da4-f470bbb78b1a" />
+
 
 Menu → Save and exit 선택
 레이아웃 이름을 입력하고 OK
