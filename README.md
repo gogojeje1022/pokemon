@@ -1,3 +1,5 @@
+https://youtu.be/oiUyFR4pXPI
+
 멜론 DS 레이아웃 2종입니다.
 태블릿 가로화면에서 플레이하는 용도입니다.
 
