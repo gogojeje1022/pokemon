@@ -49,7 +49,6 @@ Portrait background 선택
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/c6401be2-4717-4593-8da4-f470bbb78b1a" />
 
-Menu → Save and exit 선택
-레이아웃 이름을 입력하고 OK
+MENU → Save and exit 선택 후 레이아웃 이름을 입력하고 OK
 
 새로 만든 레이아웃을 선택한 뒤 플레이하면 완료!
