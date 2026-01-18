@@ -2,10 +2,8 @@
 태블릿 가로화면에서 플레이하는 용도입니다.
 
 1. nintendoDS_layout(Silver).png
+2. nintendoDSi_layout(Black).png
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/5931a434-cb58-413f-9c24-d0742f03facb" />
-
-
-3. nintendoDSi_layout(Black).png
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8844bb1c-cee3-4574-b5b5-be582d051c02" />
 
 **설치 및 설정 방법**
@@ -32,7 +30,7 @@ Layout opacity: 0
 
 Portrait background 선택
 
-+ 버튼을 눌러 앞에서 다운로드한 png 파일 선택
+플러스 버튼을 눌러 앞에서 다운로드한 png 파일 선택
 
 이름을 지정하고 OK
 
@@ -47,10 +45,9 @@ Portrait background 선택
 
 사용하지 않는 버튼은 왼쪽 아래의 DELETE 버튼 눌러서 삭제도 가능합니다.
 
-👉 아래는 레이아웃 배치 예시입니다.
+아래는 레이아웃 배치 예시입니다.
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/c6401be2-4717-4593-8da4-f470bbb78b1a" />
-
 
 Menu → Save and exit 선택
 레이아웃 이름을 입력하고 OK
